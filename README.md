@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarkadia&label=Profile%20views&color=0e75b6&style=flat" alt="devarkadia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devarkadia" alt="devarkadia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devarkadia&theme=onedark" alt="devarkadia" /></a> </p>
 
 - 🔭 I’m currently collaborate on [GammaXXI](https://play.google.com/store/apps/details?id=gamma.xxi&hl=es_419&gl=US)
 
