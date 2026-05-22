@@ -60,9 +60,9 @@ I take Domain-Driven Design seriously (not just in slide decks), type-checked Py
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevArKaDiA&show_icons=true&hide_border=true&theme=transparent&hide_title=true&card_width=380" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevArKaDiA&show_icons=true&hide_border=true&bg_color=00000000&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff&hide_title=true" height="140"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArKaDiA&layout=compact&hide_border=true&theme=transparent&langs_count=6&card_width=300" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArKaDiA&layout=compact&hide_border=true&bg_color=00000000&title_color=00bfff&text_color=c9d1d9&langs_count=6" height="140"/>
 </p>
 
 <br>
